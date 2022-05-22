@@ -6,3 +6,4 @@
 
 [![Minecraft-Mod-Language-Package-Not-Included-Language-Package](https://shields.io/github/v/release/ShaBaiTianCN/Minecraft-Mod-Language-Package-Not-Included-Language-Package?display_name=tag&include_prereleases&label=Minecraft-Mod-Language-Package-Not-Included-Language-Package)](https://github.com/ShaBaiTianCN/Minecraft-Mod-Language-Package-Not-Included-Language-Package)
 [![Restrict-Skyblock](https://shields.io/github/v/release/ShaBaiTianCN/Restrict-Skyblock?display_name=tag&include_prereleases&label=Restrict-Skyblock)](https://github.com/ShaBaiTianCN/Restrict-Skyblock)
+[![Greed-the-Resource-3-Factory](https://shields.io/github/v/release/ShaBaiTianCN/Greed-the-Resource-3-Factory?display_name=tag&include_prereleases&label=Greed-the-Resource-3-Factory)](https://github.com/ShaBaiTianCN/Greed-the-Resource-3-Factory)
