@@ -14,6 +14,7 @@
 [![Greed-the-Resource-3-Factory](https://shields.io/github/v/release/ShaBaiTianCN/Greed-the-Resource-3-Factory?display_name=tag&include_prereleases&label=Greed-the-Resource-3-Factory)](https://github.com/ShaBaiTianCN/Greed-the-Resource-3-Factory)
 [![Chroma-Technology-2](https://shields.io/github/v/release/ShaBaiTianCN/Chroma-Technology-2?display_name=tag&include_prereleases&label=Chroma-Technology-2)](https://github.com/ShaBaiTianCN/Chroma-Technology-2)
 [![Proletaria-Expert](https://shields.io/github/v/release/ShaBaiTianCN/Proletaria-Expert?display_name=tag&include_prereleases&label=Proletaria-Expert)](https://github.com/ShaBaiTianCN/Proletaria-Expert)
+[![Skyopolis-5](https://shields.io/github/v/release/ShaBaiTianCN/Skyopolis-5?display_name=tag&include_prereleases&label=Skyopolis-5)](https://github.com/ShaBaiTianCN/Skyopolis-5)
 
 ### 模组手册
 
