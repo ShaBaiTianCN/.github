@@ -15,6 +15,7 @@
 [![Chroma-Technology-2](https://shields.io/github/v/release/ShaBaiTianCN/Chroma-Technology-2?display_name=tag&include_prereleases&label=Chroma-Technology-2)](https://github.com/ShaBaiTianCN/Chroma-Technology-2)
 [![Proletaria-Expert](https://shields.io/github/v/release/ShaBaiTianCN/Proletaria-Expert?display_name=tag&include_prereleases&label=Proletaria-Expert)](https://github.com/ShaBaiTianCN/Proletaria-Expert)
 [![Skyopolis-5](https://shields.io/github/v/release/ShaBaiTianCN/Skyopolis-5?display_name=tag&include_prereleases&label=Skyopolis-5)](https://github.com/ShaBaiTianCN/Skyopolis-5)
+[![Encrypted_](https://shields.io/github/v/release/ShaBaiTianCN/Encrypted_?display_name=tag&include_prereleases&label=Encrypted_)](https://github.com/ShaBaiTianCN/Encrypted_)
 
 ### 模组手册
 
