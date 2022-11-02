@@ -17,6 +17,7 @@
 [![Skyopolis-5](https://shields.io/github/v/release/ShaBaiTianCN/Skyopolis-5?display_name=tag&include_prereleases&label=Skyopolis-5)](https://github.com/ShaBaiTianCN/Skyopolis-5)
 [![Encrypted_](https://shields.io/github/v/release/ShaBaiTianCN/Encrypted_?display_name=tag&include_prereleases&label=Encrypted_)](https://github.com/ShaBaiTianCN/Encrypted_)
 [![Andromeda-Automation](https://shields.io/github/v/release/ShaBaiTianCN/Andromeda-Automation?display_name=tag&include_prereleases&label=Andromeda-Automation)](https://github.com/ShaBaiTianCN/Andromeda-Automation)
+[![FTB-StoneBlock-3](https://shields.io/github/v/release/ShaBaiTianCN/FTB-StoneBlock-3?display_name=tag&include_prereleases&label=FTB-StoneBlock-3)](https://github.com/ShaBaiTianCN/FTB-StoneBlock-3)
 
 ### 模组手册
 
