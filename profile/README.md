@@ -19,6 +19,7 @@
 [![Andromeda-Automation](https://shields.io/github/v/release/ShaBaiTianCN/Andromeda-Automation?display_name=tag&include_prereleases&label=Andromeda-Automation)](https://github.com/ShaBaiTianCN/Andromeda-Automation)
 [![FTB-StoneBlock-3](https://shields.io/github/v/release/ShaBaiTianCN/FTB-StoneBlock-3?display_name=tag&include_prereleases&label=FTB-StoneBlock-3)](https://github.com/ShaBaiTianCN/FTB-StoneBlock-3)
 [![FTB-Inferno](https://shields.io/github/v/release/ShaBaiTianCN/FTB-Inferno?display_name=tag&include_prereleases&label=FTB-Inferno)](https://github.com/ShaBaiTianCN/FTB-Inferno)
+[![Chroma-Endless](https://shields.io/github/v/release/ShaBaiTianCN/Chroma-Endless?display_name=tag&include_prereleases&label=Chroma-Endless)](https://github.com/ShaBaiTianCN/Chroma-Endless)
 
 ### 模组手册
 
